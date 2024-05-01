@@ -40,6 +40,7 @@ Utilizing a MERN stack for software development and `ESP8266 microcontrollers` f
 ## [Source Code:](https://github.com/AbhishekSharma6903/The_Smart_Stick/blob/main/source_code)
 Refer to the GitHub repository for detailed source code and setup instructions.
 
+
 ## Results:
 The "Smart Stick" prototype successfully `detects obstacles` and `triggers alerts`, enhancing safety and accessibility for visually impaired users.
 
